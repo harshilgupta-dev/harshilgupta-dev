@@ -1,7 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harshil Gupta</h1>
 <h3 align="center">I'm a passionate Developer from India.</h3>
+<br>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilgupta-dev&label=Profile%20views&color=318add&style=flat" alt="harshilgupta-dev" /> </p>
 
