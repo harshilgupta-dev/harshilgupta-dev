@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter,Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Springboot, Microservices, System Design, Data Structures and Algorithms.**
 
-- 💬 Ask me about **Flutter,Data Structures,C++,Java**
+- 💬 Ask me about **Java, Springboot, Data Structures, C++, Java**
 
 - 📫 How to reach me **harshilgupta0099@gmail.com**
 
